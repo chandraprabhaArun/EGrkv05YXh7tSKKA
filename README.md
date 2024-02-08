@@ -13,15 +13,15 @@ Dataset Attributes
 
     fit: A numeric value representing how fit the candidate is for the role, ranging between 0 and 1.
 
-Keywords
+### Keywords
 
     The dataset includes candidates expressing interest in roles with keywords such as "Aspiring human resources" or "Seeking human resources."
 
-Goals
+### Goals
 
     Predict how fit the candidate is based on their available information (variable fit).
 
-Success Metrics
+### Success Metrics
 
     Rank candidates based on a fitness score.
     Re-rank candidates when a candidate is starred.
